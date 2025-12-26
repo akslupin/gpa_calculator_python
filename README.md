@@ -10,4 +10,3 @@ How to run:
 install customTkinter 
 gpa_calculator.py
 
-This is my first tangible project and although it is very simple and basic, I'm really proud of it.
