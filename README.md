@@ -1,2 +1,13 @@
-# gpa_calculator_python
-A GUI based calculator built using python and CustomTkinter
+A GUI Python GPA calculator 
+This is built using python and the tkinter libray along with customTkinter
+
+Features:
+1. You can select your semester
+2. Based on credits
+3. Very simple
+
+How to run:
+install customTkinter 
+gpa_calculator.py
+
+This is my first tangible project and although it is very simple and basic, I'm really proud of it.
